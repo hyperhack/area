@@ -1,7 +1,7 @@
-name: area
+name: hyperhack_area
 description: "A new Flutter package project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/hyperhack/area
 
 environment:
   sdk: ^3.13.3
